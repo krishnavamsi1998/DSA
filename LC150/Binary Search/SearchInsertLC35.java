@@ -20,5 +20,6 @@ class Solution {
             return m + 1;
         else
             return m; // [1,3,5,6],target= 0
+        // just return l;
     }
 }
